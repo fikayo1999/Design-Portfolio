@@ -219,7 +219,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "https://pub-f6a78569591148ab97f125eef2cb68d7.r2.dev/Screen%20Recording%202026-02-25%20at%204.27.27%E2%80%AFPM.mov",
     },
     {
       title: "AIICO Insurance",
@@ -244,12 +244,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://ebusiness.aiicoplc.com/register/travel/cb00e3f3-9feb-e711-a2be-005056a02281",
           icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "https://pub-a01e0176953949e9974b7b63f7783fa4.r2.dev/Screen%20Recording%202026-02-25%20at%204.34.08%E2%80%AFPM.mov",
     },
     // {
     //   title: "llm.report",

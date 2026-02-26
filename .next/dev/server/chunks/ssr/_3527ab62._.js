@@ -1761,7 +1761,7 @@ const DATA = {
                 }
             ],
             image: "",
-            video: "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4"
+            video: "https://pub-f6a78569591148ab97f125eef2cb68d7.r2.dev/Screen%20Recording%202026-02-25%20at%204.27.27%E2%80%AFPM.mov"
         },
         {
             title: "AIICO Insurance",
@@ -1785,7 +1785,7 @@ const DATA = {
             links: [
                 {
                     type: "Website",
-                    href: "https://magicui.design",
+                    href: "https://ebusiness.aiicoplc.com/register/travel/cb00e3f3-9feb-e711-a2be-005056a02281",
                     icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$icons$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Icons"].globe, {
                         className: "size-3"
                     }, void 0, false, {
@@ -1796,7 +1796,7 @@ const DATA = {
                 }
             ],
             image: "",
-            video: "https://cdn.magicui.design/bento-grid.mp4"
+            video: "https://pub-a01e0176953949e9974b7b63f7783fa4.r2.dev/Screen%20Recording%202026-02-25%20at%204.34.08%E2%80%AFPM.mov"
         }
     ],
     hackathons: [

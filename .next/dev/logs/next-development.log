@@ -1,79 +1,18 @@
-[00:00:00.793] Server  LOG     ✓ Ready in 605ms
-[00:00:13.566] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'startsWith')
-[00:00:13.567] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'url')
-[00:00:14.091] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'startsWith')
-[00:00:14.092] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'url')
-[00:00:14.453] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'startsWith')
-[00:05:57.779] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:05:57.798] Server  LOG     ✓ Compiled in 87ms
-[00:12:17.164] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[00:14:27.377] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[00:15:18.458] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[00:20:08.846] Server  LOG     ✓ Compiled in 56ms
-[00:22:09.264] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'url')
-[00:22:09.271] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[00:22:09.314] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'url')
-[00:22:10.064] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'url')
-[00:22:20.947] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:22:20.970] Server  LOG     ✓ Compiled in 47ms
-[00:26:40.332] Server  LOG     ✓ Compiled in 63ms
-[00:31:18.235] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:31:18.404] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:31:19.220] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:31:19.346] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:31:19.602] Browser ERROR   uncaughtError: TypeError: Invalid URL
-[00:32:22.506] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:32:22.625] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:32:22.870] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:32:23.004] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:32:23.131] Browser ERROR   uncaughtError: TypeError: Invalid URL
-[00:32:28.338] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:32:28.438] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:32:28.533] Browser ERROR   uncaughtError: TypeError: Invalid URL
-[00:32:46.170] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:32:46.346] Server  ERROR   ⨯ TypeError: Invalid URL
-[00:32:46.448] Browser ERROR   uncaughtError: TypeError: Invalid URL
-[00:36:54.189] Server  LOG     ✓ Compiled in 39ms
-[00:39:27.395] Server  LOG     ✓ Compiled in 54ms
-[01:43:48.995] Server  LOG     ✓ Compiled in 95ms
-[01:45:05.001] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[01:47:58.074] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[01:49:50.116] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[01:50:34.030] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[01:50:57.712] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[01:51:19.989] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[01:51:53.918] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[01:59:33.828] Server  LOG     ✓ Compiled in 117ms
-[02:02:41.597] Server  LOG     ✓ Compiled in 100ms
-[02:05:48.582] Server  LOG     ✓ Compiled in 87ms
-[02:25:47.210] Server  LOG     ✓ Compiled in 107ms
-[02:27:09.797] Server  LOG     ✓ Compiled in 81ms
-[03:21:00.546] Server  LOG     ✓ Compiled in 104ms
-[03:44:42.438] Server  LOG     ✓ Compiled in 119ms
-[03:45:56.161] Server  LOG     ✓ Compiled in 47ms
-[03:47:31.608] Server  LOG     ✓ Compiled in 49ms
-[03:47:53.444] Server  LOG     ✓ Compiled in 83ms
-[03:49:31.769] Server  LOG     ✓ Compiled in 82ms
-[03:50:30.505] Server  LOG     ✓ Compiled in 138ms
-[03:52:56.353] Server  LOG     ✓ Compiled in 90ms
-[03:52:56.710] Server  LOG     ✓ Compiled in 3ms
-[03:58:33.138] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[03:58:33.937] Server  LOG     ✓ Compiled in 1ms
-[03:59:36.903] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[04:01:53.887] Server  LOG     ✓ Compiled in 41ms
-[04:03:25.938] Server  LOG     ✓ Compiled in 46ms
-[04:04:16.577] Server  LOG     ✓ Compiled in 45ms
-[04:22:37.364] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[04:23:32.231] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[04:35:52.365] Server  LOG     ✓ Compiled in 112ms
-[04:35:52.663] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[04:46:35.393] Server  LOG     ✓ Compiled in 60ms
-[05:09:25.005] Server  LOG     ✓ Compiled in 148ms
-[05:09:25.005] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[05:53:03.817] Server  LOG     ✓ Compiled in 106ms
-[06:00:25.494] Server  LOG     ✓ Compiled in 100ms
-[06:00:25.808] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[06:02:39.739] Server  LOG     ✓ Compiled in 135ms
-[06:08:28.774] Server  LOG     ✓ Compiled in 122ms
-[06:08:29.098] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[06:20:20.408] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[00:00:01.925] Server  LOG     ✓ Ready in 1700ms
+[00:00:15.100] Server  ERROR   Can't load image https://fikayo-olusegun-1999.netlify.app/mine.jpg: Unsupported image type: unknown
+[00:00:15.104] Server  ERROR   Expected style "zIndex: 2px" to be unitless
+[00:00:15.200] Server  ERROR   ⨯ Error: failed to pipe response
+[00:00:15.268] Server  ERROR   ⨯ Error: failed to pipe response
+[00:00:15.421] Server  ERROR   Can't load image https://fikayo-olusegun-1999.netlify.app/mine.jpg: Unsupported image type: unknown
+[00:00:15.422] Server  ERROR   Expected style "zIndex: 2px" to be unitless
+[00:00:17.875] Server  ERROR   ⨯ Error: failed to pipe response
+[00:00:17.946] Server  ERROR   ⨯ Error: failed to pipe response
+[00:00:18.040] Server  ERROR   Can't load image https://fikayo-olusegun-1999.netlify.app/mine.jpg: Unsupported image type: unknown
+[00:00:18.041] Server  ERROR   Expected style "zIndex: 2px" to be unitless
+[00:00:18.103] Server  ERROR   ⨯ Error: failed to pipe response
+[00:00:18.163] Server  ERROR   ⨯ Error: failed to pipe response
+[00:00:18.710] Server  ERROR   Can't load image https://fikayo-olusegun-1999.netlify.app/mine.jpg: Unsupported image type: unknown
+[00:00:18.710] Server  ERROR   Expected style "zIndex: 2px" to be unitless
+[00:00:18.778] Server  ERROR   ⨯ Error: failed to pipe response
+[00:00:18.860] Server  ERROR   ⨯ Error: failed to pipe response
+[00:08:04.788] Server  LOG     ✓ Compiled in 198ms
