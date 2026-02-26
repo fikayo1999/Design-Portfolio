@@ -1,1 +1,51 @@
-[00:00:01.790] Server  LOG     ✓ Ready in 1658ms
+[00:00:00.793] Server  LOG     ✓ Ready in 605ms
+[00:00:13.566] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'startsWith')
+[00:00:13.567] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'url')
+[00:00:14.091] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'startsWith')
+[00:00:14.092] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'url')
+[00:00:14.453] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'startsWith')
+[00:05:57.779] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:05:57.798] Server  LOG     ✓ Compiled in 87ms
+[00:12:17.164] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[00:14:27.377] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[00:15:18.458] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[00:20:08.846] Server  LOG     ✓ Compiled in 56ms
+[00:22:09.264] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'url')
+[00:22:09.271] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[00:22:09.314] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'url')
+[00:22:10.064] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'url')
+[00:22:20.947] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:20.970] Server  LOG     ✓ Compiled in 47ms
+[00:26:40.332] Server  LOG     ✓ Compiled in 63ms
+[00:31:18.235] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:31:18.404] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:31:19.220] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:31:19.346] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:31:19.602] Browser ERROR   uncaughtError: TypeError: Invalid URL
+[00:32:22.506] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:32:22.625] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:32:22.870] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:32:23.004] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:32:23.131] Browser ERROR   uncaughtError: TypeError: Invalid URL
+[00:32:28.338] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:32:28.438] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:32:28.533] Browser ERROR   uncaughtError: TypeError: Invalid URL
+[00:32:46.170] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:32:46.346] Server  ERROR   ⨯ TypeError: Invalid URL
+[00:32:46.448] Browser ERROR   uncaughtError: TypeError: Invalid URL
+[00:36:54.189] Server  LOG     ✓ Compiled in 39ms
+[00:39:27.395] Server  LOG     ✓ Compiled in 54ms
+[01:43:48.995] Server  LOG     ✓ Compiled in 95ms
+[01:45:05.001] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[01:47:58.074] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[01:49:50.116] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[01:50:34.030] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[01:50:57.712] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[01:51:19.989] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[01:51:53.918] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[01:59:33.828] Server  LOG     ✓ Compiled in 117ms
+[02:02:41.597] Server  LOG     ✓ Compiled in 100ms
+[02:05:48.582] Server  LOG     ✓ Compiled in 87ms
+[02:25:47.210] Server  LOG     ✓ Compiled in 107ms
+[02:27:09.797] Server  LOG     ✓ Compiled in 81ms
+[03:21:00.546] Server  LOG     ✓ Compiled in 104ms

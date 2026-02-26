@@ -2260,14 +2260,14 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$s
 ;
 ;
 const DATA = {
-    name: "Dillion Verma",
-    initials: "DV",
-    url: "https://dillion.io",
-    location: "San Francisco, CA",
-    locationLink: "https://www.google.com/maps/place/sanfrancisco",
-    description: "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
-    summary: "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
-    avatarUrl: "/me.png",
+    name: "Lydia Olufikayo Olusegun",
+    initials: "OO",
+    url: "https://fikayo-olusegun-1999.netlify.app/",
+    location: "St'John's, NL",
+    locationLink: "https://maps.app.goo.gl/ojNMaZWarQRNgewK8",
+    description: "Impact-driven Software Developer passionate about building scalable, efficient solutions that solve real-world problems. I combine strong problem-solving skills with modern development practices to create applications that drive innovation, growth, and measurable results.",
+    summary: "I began my career building real-world software solutions that fueled my passion for solving meaningful problems through technology. As a Software Developer at AIICO Insurance Plc, I contributed to optimizing digital systems that improved efficiency and user experience. I’ve worked on diverse applications, integrated APIs, and continuously grown through hands-on development. I currently serve as Operations & Logistics Lead for Software Developers of St. John’s, supporting initiatives that strengthen the local tech community. I’m driven to build scalable solutions and continuously evolve with emerging technologies.",
+    avatarUrl: "/mine.jpg",
     skills: [
         {
             name: "React",
@@ -2332,13 +2332,13 @@ const DATA = {
         social: {
             GitHub: {
                 name: "GitHub",
-                url: "https://dub.sh/dillion-github",
+                url: "https://github.com/fikayo1999",
                 icon: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$icons$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Icons"].github,
                 navbar: true
             },
             LinkedIn: {
                 name: "LinkedIn",
-                url: "https://dub.sh/dillion-linkedin",
+                url: "https://www.linkedin.com/in/fikayo-lydia-olusegun-4b1559197/",
                 icon: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$icons$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Icons"].linkedin,
                 navbar: true
             },
@@ -2346,13 +2346,13 @@ const DATA = {
                 name: "X",
                 url: "https://dub.sh/dillion-twitter",
                 icon: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$icons$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Icons"].x,
-                navbar: true
+                navbar: false
             },
             Youtube: {
                 name: "Youtube",
                 url: "https://dub.sh/dillion-youtube",
                 icon: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$icons$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Icons"].youtube,
-                navbar: true
+                navbar: false
             },
             email: {
                 name: "Send Email",
@@ -2364,104 +2364,55 @@ const DATA = {
     },
     work: [
         {
-            company: "Atomic Finance",
-            href: "https://atomic.finance",
+            company: "Verisult",
+            href: "https://skillmatchai.ca/landingpage",
             badges: [],
-            location: "Remote",
-            title: "Bitcoin Protocol Engineer",
-            logoUrl: "/atomic.png",
-            start: "May 2021",
-            end: "Oct 2022",
-            description: "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript."
+            location: "Hybrid",
+            title: "Software Developer",
+            logoUrl: "/VERISULT.JPG",
+            start: "October 2024",
+            end: "May 2025",
+            description: "Partnered with developers and project managers to architect a dynamic Resume Scorer platform that delivers real-time feedback and intelligently aligns user skill sets with ideal career opportunities. Optimized system accuracy, performance, and cross-device responsiveness, resulting in improved accessibility, enhanced user experience, and higher platform engagement."
         },
         {
-            company: "Shopify",
+            company: "AIICO Insurance",
             badges: [],
-            href: "https://shopify.com",
-            location: "Remote",
-            title: "Software Engineer",
-            logoUrl: "/shopify.svg",
-            start: "January 2021",
-            end: "April 2021",
-            description: "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes."
+            href: "https://ebusiness.aiicoplc.com/register/travel/cb00e3f3-9feb-e711-a2be-005056a02281",
+            location: "Hybrid",
+            title: "Software Developer",
+            logoUrl: "/AIICO.PNG",
+            start: "Feburary 2024",
+            end: "January 2025",
+            description: "Led a full website overhaul using Angular, React, and Node.js, improving system performance, usability, and user engagement. Strengthened development workflows by implementing structured version control and release processes with Git and Azure DevOps, ensuring clean integrations and reliable deployments.Built automated CI/CD pipelines that accelerated feature delivery and increased deployment efficiency. Also drove a cross-product initiative to standardize UI/UX testing across five product lines, reducing onboarding time and improving early user adoption."
         },
         {
-            company: "Nvidia",
-            href: "https://nvidia.com/",
+            company: "Access Bank",
+            href: "https://www.accessbankplc.com",
             badges: [],
-            location: "Santa Clara, CA",
+            location: "Hybrid",
             title: "Software Engineer",
-            logoUrl: "/nvidia.png",
-            start: "January 2020",
-            end: "April 2020",
-            description: "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python."
-        },
-        {
-            company: "Splunk",
-            href: "https://splunk.com",
-            badges: [],
-            location: "San Jose, CA",
-            title: "Software Engineer",
-            logoUrl: "/splunk.svg",
-            start: "January 2019",
-            end: "April 2019",
-            description: "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput."
-        },
-        {
-            company: "Lime",
-            href: "https://li.me/",
-            badges: [],
-            location: "San Francisco, CA",
-            title: "Software Engineer",
-            logoUrl: "/lime.svg",
-            start: "January 2018",
-            end: "April 2018",
-            description: "Proposed and implemented an internal ruby API for sending/receiving commands to scooters over LTE networks. Developed a fully automated bike firmware update system to handle asynchronous firmware updates of over 100,000+ scooters worldwide, and provide progress reports in real-time using React, Ruby on Rails, PostgreSQL and AWS EC2 saving hundreds of developer hours."
-        },
-        {
-            company: "Mitre Media",
-            href: "https://mitremedia.com/",
-            badges: [],
-            location: "Toronto, ON",
-            title: "Software Engineer",
-            logoUrl: "/mitremedia.png",
-            start: "May 2017",
-            end: "August 2017",
-            description: "Designed and implemented a robust password encryption and browser cookie storage system in Ruby on Rails. Leveraged the Yahoo finance API to develop the dividend.com equity screener"
+            logoUrl: "/ACCESS.PNG",
+            start: "September 2021",
+            end: "November 2023",
+            description: "Optimized the bank’s mobile banking app to enhance user experience and performance, reducing customer onboarding time , while developing APIs to streamline data flow for banking services, improving performance metrics."
         }
     ],
     education: [
         {
-            school: "Buildspace",
-            href: "https://buildspace.so",
-            degree: "s3, s4, sf1, s5",
-            logoUrl: "/buildspace.jpg",
+            school: "Leinad Studios",
+            href: "https://leinadstudios.com",
+            degree: "Certification in Software Development",
+            logoUrl: "/LEINAD.JPG",
             start: "2023",
             end: "2024"
         },
         {
-            school: "University of Waterloo",
-            href: "https://uwaterloo.ca",
-            degree: "Bachelor's Degree of Computer Science (BCS)",
-            logoUrl: "/waterloo.png",
-            start: "2016",
-            end: "2021"
-        },
-        {
-            school: "Wilfrid Laurier University",
-            href: "https://wlu.ca",
-            degree: "Bachelor's Degree of Business Administration (BBA)",
-            logoUrl: "/laurier.png",
-            start: "2016",
-            end: "2021"
-        },
-        {
-            school: "International Baccalaureate",
-            href: "https://ibo.org",
-            degree: "IB Diploma",
-            logoUrl: "/ib.png",
-            start: "2012",
-            end: "2016"
+            school: "University of Lagos",
+            href: "https://unilag.edu.ng",
+            degree: "Bachelor's Degree of Marine Science ",
+            logoUrl: "/UNILAG.PNG",
+            start: "2015",
+            end: "2019"
         }
     ],
     projects: [
@@ -2620,11 +2571,11 @@ const DATA = {
     ],
     hackathons: [
         {
-            title: "Hack Western 5",
-            dates: "November 23rd - 25th, 2018",
-            location: "London, Ontario",
-            description: "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
-            image: "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
+            title: "User-details-new",
+            dates: "2024",
+            location: "Remote",
+            description: "Optimized web applications, reducing load times by 40% and improving scalability to handle 2x the traffic, enhancing overall performance.",
+            image: " ",
             mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
             links: []
         },
@@ -3117,11 +3068,11 @@ const DATA = {
             ]
         },
         {
-            title: "Portal Hackathon",
-            dates: "October 29, 2016",
-            location: "Kingston, Ontario",
-            description: "Developed an internal widget for uploading assignments using Waterloo's portal app",
-            image: "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/portal-hackathon.png",
+            title: "Travel Agency",
+            dates: "2024",
+            location: "Remote",
+            description: "Visually appealing travel agency website",
+            image: " ",
             links: [
                 {
                     title: "Source",
@@ -3132,7 +3083,7 @@ const DATA = {
                         lineNumber: 695,
                         columnNumber: 17
                     }, ("TURBOPACK compile-time value", void 0)),
-                    href: "https://github.com/UWPortalSDK/crowmark"
+                    href: "https://github.com/fikayo1999/Travel-Agency/tree/main"
                 }
             ]
         }
