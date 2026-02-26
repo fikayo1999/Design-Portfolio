@@ -49,3 +49,31 @@
 [02:25:47.210] Server  LOG     ✓ Compiled in 107ms
 [02:27:09.797] Server  LOG     ✓ Compiled in 81ms
 [03:21:00.546] Server  LOG     ✓ Compiled in 104ms
+[03:44:42.438] Server  LOG     ✓ Compiled in 119ms
+[03:45:56.161] Server  LOG     ✓ Compiled in 47ms
+[03:47:31.608] Server  LOG     ✓ Compiled in 49ms
+[03:47:53.444] Server  LOG     ✓ Compiled in 83ms
+[03:49:31.769] Server  LOG     ✓ Compiled in 82ms
+[03:50:30.505] Server  LOG     ✓ Compiled in 138ms
+[03:52:56.353] Server  LOG     ✓ Compiled in 90ms
+[03:52:56.710] Server  LOG     ✓ Compiled in 3ms
+[03:58:33.138] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[03:58:33.937] Server  LOG     ✓ Compiled in 1ms
+[03:59:36.903] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[04:01:53.887] Server  LOG     ✓ Compiled in 41ms
+[04:03:25.938] Server  LOG     ✓ Compiled in 46ms
+[04:04:16.577] Server  LOG     ✓ Compiled in 45ms
+[04:22:37.364] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[04:23:32.231] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[04:35:52.365] Server  LOG     ✓ Compiled in 112ms
+[04:35:52.663] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[04:46:35.393] Server  LOG     ✓ Compiled in 60ms
+[05:09:25.005] Server  LOG     ✓ Compiled in 148ms
+[05:09:25.005] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[05:53:03.817] Server  LOG     ✓ Compiled in 106ms
+[06:00:25.494] Server  LOG     ✓ Compiled in 100ms
+[06:00:25.808] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[06:02:39.739] Server  LOG     ✓ Compiled in 135ms
+[06:08:28.774] Server  LOG     ✓ Compiled in 122ms
+[06:08:29.098] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[06:20:20.408] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}

@@ -277,11 +277,11 @@ function ContactSection() {
                             "Want to chat? Just shoot me a dm",
                             " ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                href: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$data$2f$resume$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["DATA"].contact.social.X.url,
+                                href: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$data$2f$resume$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["DATA"].contact.social.LinkedIn.url,
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "text-blue-500 hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm",
-                                children: "with a direct question on twitter"
+                                children: "with a direct question on Linkedin"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/section/contact-section.tsx",
                                 lineNumber: 28,
@@ -463,7 +463,7 @@ function HackathonsSection() {
                                     className: "border bg-primary z-10 rounded-xl px-4 py-1",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "text-background text-sm font-medium",
-                                        children: "Hackathons"
+                                        children: "Projects"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/section/hackathons-section.tsx",
                                         lineNumber: 15,
@@ -492,7 +492,7 @@ function HackathonsSection() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-3xl font-bold tracking-tighter sm:text-4xl",
-                                    children: "I like building things"
+                                    children: "I love building things"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/section/hackathons-section.tsx",
                                     lineNumber: 20,
@@ -500,12 +500,8 @@ function HackathonsSection() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-muted-foreground md:text-lg/relaxed lg:text-base/relaxed xl:text-lg/relaxed text-balance text-center",
-                                    children: [
-                                        "During my time in university, I attended ",
-                                        __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$data$2f$resume$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["DATA"].hackathons.length,
-                                        "+ hackathons. People from around the country would come together and build incredible things in 2-3 days. It was eye-opening to see the endless possibilities brought to life by a group of motivated and passionate individuals."
-                                    ]
-                                }, void 0, true, {
+                                    children: "During my training and certificate program, I completed. I worked on multiple real-world projects that required translating concepts into functional applications. This experience sharpened my technical skills, strengthened my collaborative abilities, and reinforced my commitment to continuous learning and innovation."
+                                }, void 0, false, {
                                     fileName: "[project]/src/components/section/hackathons-section.tsx",
                                     lineNumber: 21,
                                     columnNumber: 13
@@ -534,18 +530,18 @@ function HackathonsSection() {
                                         className: "size-10 bg-card z-10 shrink-0 overflow-hidden p-1 border rounded-full shadow ring-2 ring-border object-contain flex-none"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                        lineNumber: 33,
+                                        lineNumber: 31,
                                         columnNumber: 19
                                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "size-10 bg-card z-10 shrink-0 overflow-hidden p-1 border rounded-full shadow ring-2 ring-border flex-none"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                        lineNumber: 39,
+                                        lineNumber: 37,
                                         columnNumber: 19
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                    lineNumber: 31,
+                                    lineNumber: 29,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -556,7 +552,7 @@ function HackathonsSection() {
                                             children: hackathon.dates
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                            lineNumber: 44,
+                                            lineNumber: 42,
                                             columnNumber: 19
                                         }, this),
                                         hackathon.title && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -564,7 +560,7 @@ function HackathonsSection() {
                                             children: hackathon.title
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                            lineNumber: 47,
+                                            lineNumber: 45,
                                             columnNumber: 19
                                         }, this),
                                         hackathon.location && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -572,7 +568,7 @@ function HackathonsSection() {
                                             children: hackathon.location
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                            lineNumber: 50,
+                                            lineNumber: 48,
                                             columnNumber: 19
                                         }, this),
                                         hackathon.description && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -580,7 +576,7 @@ function HackathonsSection() {
                                             children: hackathon.description
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                            lineNumber: 53,
+                                            lineNumber: 51,
                                             columnNumber: 19
                                         }, this),
                                         hackathon.links && hackathon.links.length > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -597,34 +593,34 @@ function HackathonsSection() {
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                                        lineNumber: 66,
+                                                        lineNumber: 64,
                                                         columnNumber: 25
                                                     }, this)
                                                 }, idx, false, {
                                                     fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                                    lineNumber: 60,
+                                                    lineNumber: 58,
                                                     columnNumber: 23
                                                 }, this))
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                            lineNumber: 58,
+                                            lineNumber: 56,
                                             columnNumber: 19
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/section/hackathons-section.tsx",
-                                    lineNumber: 42,
+                                    lineNumber: 40,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, hackathon.title + hackathon.dates, true, {
                             fileName: "[project]/src/components/section/hackathons-section.tsx",
-                            lineNumber: 30,
+                            lineNumber: 28,
                             columnNumber: 13
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/src/components/section/hackathons-section.tsx",
-                    lineNumber: 28,
+                    lineNumber: 26,
                     columnNumber: 9
                 }, this)
             ]
