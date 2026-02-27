@@ -1,8 +1,8 @@
 <div align="center">
-<img alt="Portfolio" src="https://github.com/fikayo1999/Design-Portfolio/edit/main/README.md" width="90%">
+<img alt="Portfolio" src="design-portfolio-cscqy1olt-fikayo1999s-projects.vercel.app" width="90%">
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+# Portfolio [![Deploy with Vercel](https://vercel.com/button)](design-portfolio-cscqy1olt-fikayo1999s-projects.vercel.app)
 
 Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
 
