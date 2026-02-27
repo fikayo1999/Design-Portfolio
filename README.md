@@ -8,7 +8,6 @@ Built with next.js and [magic ui](https://magicui.design/), deployed on Vercel.
 
 # Features
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
 - Built using Next.js 16, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
 - Includes a blog
 - Responsive for different devices
