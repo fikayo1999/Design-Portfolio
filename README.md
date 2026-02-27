@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://design-portfolio-flame-phi.vercel.app">
-    <img src="../public/portio.jpg" width="90%">
+    <img src="public/portio.jpg" width="90%">
   </a>
 </div>
 
