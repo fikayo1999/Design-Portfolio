@@ -1,10 +1,10 @@
 <div align="center">
-<img alt="Portfolio" src="design-portfolio-cscqy1olt-fikayo1999s-projects.vercel.app" width="90%">
+<img alt="Portfolio" src="https://design-portfolio-flame-phi.vercel.app" width="90%">
 </div>
 
 # Portfolio [![Deploy with Vercel](https://vercel.com/button)](design-portfolio-cscqy1olt-fikayo1999s-projects.vercel.app)
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+Built with next.js and [magic ui](https://magicui.design/), deployed on Vercel.
 
 # Features
 
