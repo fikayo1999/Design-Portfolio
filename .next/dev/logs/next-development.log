@@ -1,18 +1,1 @@
-[00:00:01.925] Server  LOG     ✓ Ready in 1700ms
-[00:00:15.100] Server  ERROR   Can't load image https://fikayo-olusegun-1999.netlify.app/mine.jpg: Unsupported image type: unknown
-[00:00:15.104] Server  ERROR   Expected style "zIndex: 2px" to be unitless
-[00:00:15.200] Server  ERROR   ⨯ Error: failed to pipe response
-[00:00:15.268] Server  ERROR   ⨯ Error: failed to pipe response
-[00:00:15.421] Server  ERROR   Can't load image https://fikayo-olusegun-1999.netlify.app/mine.jpg: Unsupported image type: unknown
-[00:00:15.422] Server  ERROR   Expected style "zIndex: 2px" to be unitless
-[00:00:17.875] Server  ERROR   ⨯ Error: failed to pipe response
-[00:00:17.946] Server  ERROR   ⨯ Error: failed to pipe response
-[00:00:18.040] Server  ERROR   Can't load image https://fikayo-olusegun-1999.netlify.app/mine.jpg: Unsupported image type: unknown
-[00:00:18.041] Server  ERROR   Expected style "zIndex: 2px" to be unitless
-[00:00:18.103] Server  ERROR   ⨯ Error: failed to pipe response
-[00:00:18.163] Server  ERROR   ⨯ Error: failed to pipe response
-[00:00:18.710] Server  ERROR   Can't load image https://fikayo-olusegun-1999.netlify.app/mine.jpg: Unsupported image type: unknown
-[00:00:18.710] Server  ERROR   Expected style "zIndex: 2px" to be unitless
-[00:00:18.778] Server  ERROR   ⨯ Error: failed to pipe response
-[00:00:18.860] Server  ERROR   ⨯ Error: failed to pipe response
-[00:08:04.788] Server  LOG     ✓ Compiled in 198ms
+[00:00:01.988] Server  LOG     ✓ Ready in 1765ms
