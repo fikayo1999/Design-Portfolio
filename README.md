@@ -2,7 +2,7 @@
 <img alt="Portfolio" src="https://design-portfolio-flame-phi.vercel.app" width="90%">
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](design-portfolio-cscqy1olt-fikayo1999s-projects.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://design-portfolio-flame-phi.vercel.app)
 
 Built with next.js and [magic ui](https://magicui.design/), deployed on Vercel.
 
