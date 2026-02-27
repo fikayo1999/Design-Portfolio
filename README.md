@@ -1,5 +1,8 @@
+
 <div align="center">
-<img alt="Portfolio" src="https://design-portfolio-flame-phi.vercel.app" width="90%">
+  <a href="https://design-portfolio-flame-phi.vercel.app">
+    <img src="./assets/preview.png" width="90%">
+  </a>
 </div>
 
 # Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://design-portfolio-flame-phi.vercel.app)
